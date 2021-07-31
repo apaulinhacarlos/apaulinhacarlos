@@ -26,7 +26,9 @@ Busco sempre me envolver em projetos que me façam aprender para crescer, agrega
   
   ##
   
- #### FOLLOW ME!!! Você não vai se arrepender (de vez enquando tem gatinho por lá) 😻  
+ #### FOLLOW ME!!! 
+ #### Você não vai se arrepender (de vez enquando tem gatinho por lá) 😻 
+ 
  <div> 
   <a href="https://www.linkedin.com/in/apaulinhacarlos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/apaulinhacarlos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
