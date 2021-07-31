@@ -8,8 +8,8 @@ Busco sempre me envolver em projetos que me façam aprender para crescer, agrega
 
 <div>
   <a href="https://github.com/apaulinhacarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&langs_count=7&theme=synthwave"/>
   </a>
 </div>
 
