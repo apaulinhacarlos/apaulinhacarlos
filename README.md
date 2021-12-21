@@ -1,5 +1,5 @@
 ### Oi, tudo bem? 😉
-### Eu sou a Paulinha Carlos e estou em processo de mudança de carreira para a área da tecnologia.
+#### Eu sou a Paulinha Carlos e estou em processo de mudança de carreira para a área da tecnologia.
 
 Sou uma pessoa Publicitária por formação, apaixonada por criatividade e relacionamentos sociais com mais de 15 anos de experiência na área de comunicação e design. 
 
