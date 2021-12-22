@@ -1,11 +1,9 @@
 ### Oi, tudo bem? 😉
-#### Eu sou a Paulinha Carlos e estou em processo de mudança de carreira para a área da tecnologia.
+#### Eu sou a Paulinha Carlos, uma Publicitária em processo de mudança de carreira para a área da tecnologia. 
 
-Sou uma pessoa Publicitária por formação, apaixonada por criatividade e relacionamentos sociais com mais de 15 anos de experiência na área de comunicação e design. 
+Sou apaixonada por criatividade e relacionamentos sociais, o que me fez ter mais de 15 anos de experiência na área de comunicação e design. Em busca de novos desafios, estudo Desenvolvimento Web na Trybe, onde aprendo JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais. 
 
-Em busca de novos desafios, estudo Desenvolvimento Web na  <a href="https://www.betrybe.com/">Trybe</a>, onde aprendo JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais. 
-
-Hoje sou uma pessoa Summer de Instrução na Trybe, responsável por realizar monitorias técnicas para outras turmas em conteúdos que já estudei, como HTML, CSS, JavaScript, Testes Automatizados, React, Redux, Context API, NodeJs, Arquitetura Rest, Docker, banco de dados como Mongo e SQL, entre outros. 
+Hoje sou uma pessoa Summer de Instrução na Trybe, responsável por realizar monitorias técnicas para outras turmas em conteúdos que já estudei, como HTML, CSS, JavaScript, Testes Automatizados, React, Redux, Context API, NodeJs, Arquitetura Rest, Docker, banco de dados como MongoDB e MySQL, entre outros. 
 
 Meu objetivo é sempre me envolver em projetos que me façam aprender para crescer, agregando conhecimento para me tornar uma profissional completa com oportunidade de transitar por diversas áreas do mercado, prezando sempre pela empatia e pela colaboração.
 
