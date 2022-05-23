@@ -3,7 +3,7 @@
 
 Sou apaixonada por criatividade e relacionamentos sociais, o que me fez ter mais de 15 anos de experiência na área de comunicação e design. Em busca de novos desafios, fiz transição de carreira para a área da Tecnologia, estudando Desenvolvimento Web na Trybe, onde aprendi JavaScript, Front-end, Back-end, Ciência da Computação, Metodologias Ágeis e habilidades comportamentais. 
 
-Hoje sou Analista de Desenvolvimento de Sistemas na SulAmérica. 
+Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, Python, React (Redux e Context API), Docker, Testes Automatizados, entre outros. 
 
 Meu objetivo é sempre me envolver em projetos que me façam aprender para crescer, agregando conhecimento para me tornar uma profissional completa com oportunidade de transitar por diversas áreas do mercado, prezando sempre pela empatia e pela colaboração.
 
