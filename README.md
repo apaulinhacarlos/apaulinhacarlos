@@ -7,21 +7,20 @@ Tenho experiência com Node.Js, Express, API’s RESTful, Sequelize e banco de d
 
 Meu objetivo é sempre me envolver em projetos que me façam aprender para crescer, agregando conhecimento para me tornar uma profissional completa com oportunidade de transitar por diversas áreas do mercado, prezando sempre pela empatia e pela colaboração.
 
-<div>
+<!-- <div>
   <a href="https://github.com/apaulinhacarlos">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div>
+</div> -->
 
 <div>
   <a href="https://github.com/apaulinhacarlos">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&theme=dracula"/>
   </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ##
 
