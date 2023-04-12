@@ -21,6 +21,7 @@ Meu objetivo é sempre me envolver em projetos que me façam aprender para cresc
   </a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ##
 
