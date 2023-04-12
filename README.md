@@ -14,6 +14,15 @@ Meu objetivo é sempre me envolver em projetos que me façam aprender para cresc
   </a>
 </div>
 
+<div>
+  <a href="https://github.com/apaulinhacarlos">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 
 #### Essas são as linguagens que eu conheço (por enquanto) 😅
