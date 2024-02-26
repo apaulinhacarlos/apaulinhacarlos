@@ -1,11 +1,13 @@
 ### Oie, tudo bem? 😉
-#### Eu sou a Paulinha Carlos, Desenvolvedora Back-End 👩🏻‍💻 formada em Publicidade 🐓 pós-graduada em Arquitetura de Software 💻 com experiência em Design Gráfico 🎨 e talento pra Gateira 😻. 
+#### Eu sou a Paulinha Carlos, Instrutora e Desenvolvedora Back-end 👩🏻‍💻 formada em Publicidade 🐓 pós-graduada em Arquitetura de Software 💻 com experiência em Design Gráfico 🎨 paixão por pessoas 🫂 e talento pra Gateira 😻. 
 
-Sou apaixonada por criatividade e relacionamentos sociais, o que me fez ter mais de 15 anos de experiência na área de comunicação e design. Em busca de novos desafios, fiz transição de carreira para a área da Tecnologia e hoje atuo na área da educação como instrutora Back-end, focada nas linguagens de JavaScript e TypeScript, apoiando times de habilidades comportamentais e metodologias ágeis.
+Sou apaixonada por relacionamentos sociais e criatividade, por isso acumulei mais de 15 anos de experiência na área de Comunicação e Marketing. 
+ 
+Buscando constantemente novos desafios, transitei para a área da Tecnologia e hoje atuo como educadora e desenvolvedora Back-end focada nas linguagens JavaScript e TypeScript, além de apoiar times de habilidades comportamentais, metodologias ágeis e geração de conteúdo.
+ 
+Tenho experiência com Node.Js, Express.Js, Docker, API’s RESTful, Sequelize, testes automatizados (unitários e de integração) e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, React, Gestão de Projetos e Produtos, entre outras stacks que estão no meu ToDoList de estudos 😅 
 
-Tenho experiência com Node.Js, Express, Docker, API’s RESTful, Sequelize, testes automatizados (unitários e de integração) e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, Python, Swift, React (Redux e Context API), entre outras stacks que estão no meu ToDoList de estudos 😅 
-
-Meu objetivo é sempre me envolver em projetos que me façam aprender para crescer, agregando conhecimento para me tornar uma profissional completa com oportunidade de transitar por diversas áreas do mercado, prezando sempre pela empatia e pela colaboração.
+Meu objetivo é sempre me envolver em projetos que não apenas extraiam o melhor das pessoas e produtos, mas também permitam-me aplicar e aprimorar meus conhecimentos, tornando-me uma profissional versátil, capaz de transitar por diversas áreas do mercado, priorizando sempre pela empatia e colaboração.
 
 ##
 
