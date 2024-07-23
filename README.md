@@ -3,7 +3,7 @@
 
 Sou apaixonada por relacionamentos sociais e criatividade, o que me levou a acumular mais de 15 anos de experiência em Comunicação e Marketing. Sempre em busca de novos desafios, migrei para a área de Tecnologia e hoje, atuo como educadora e desenvolvedora Back-end, focada em JavaScript e TypeScript. Também apoio times de habilidades comportamentais, metodologias ágeis e geração de conteúdo.
  
-Tenho experiência com Node.Js, Express.Js, Docker, API’s RESTful, Sequelize, testes automatizados (unitários e de integração) e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, React, Gestão de Projetos e Produtos, entre outras stacks que estão no meu ToDoList de estudos 😅 
+Tenho experiência com Node.js, Express.js, Docker, APIs RESTful, Sequelize, testes automatizados (unitários e de integração) e bancos de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Também tenho conhecimentos em Programação Orientada a Objetos, Arquitetura Limpa, Análise de Dados (ETL), Microserviços, AWS, GCP, Computação em Nuvem, React, Gestão de Projetos e Produtos, entre outras stacks que estão no meu ToDoList de estudos 😅.
 
 Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pessoas, além de me permitir aplicar e aprimorar meus conhecimentos, a fim de ser uma profissional versátil, capaz de transitar por diversas áreas do mercado, sempre priorizando empatia e colaboração.
 
