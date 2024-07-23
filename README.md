@@ -1,13 +1,11 @@
 ### Oie, tudo bem? 😉
 #### Eu sou a Paulinha Carlos, Instrutora e Desenvolvedora Back-end 👩🏻‍💻 formada em Publicidade 🐓 pós-graduada em Arquitetura de Software 💻 com experiência em Design Gráfico 🎨 paixão por pessoas 🫂 e talento pra Gateira 😻. 
 
-Sou apaixonada por relacionamentos sociais e criatividade, por isso acumulei mais de 15 anos de experiência na área de Comunicação e Marketing. 
- 
-Buscando constantemente novos desafios, transitei para a área da Tecnologia e hoje atuo como educadora e desenvolvedora Back-end focada nas linguagens JavaScript e TypeScript, além de apoiar times de habilidades comportamentais, metodologias ágeis e geração de conteúdo.
+Sou apaixonada por relacionamentos sociais e criatividade, o que me levou a acumular mais de 15 anos de experiência em Comunicação e Marketing. Sempre em busca de novos desafios, migrei para a área de Tecnologia e hoje, atuo como educadora e desenvolvedora Back-end, focada em JavaScript e TypeScript. Também apoio times de habilidades comportamentais, metodologias ágeis e geração de conteúdo.
  
 Tenho experiência com Node.Js, Express.Js, Docker, API’s RESTful, Sequelize, testes automatizados (unitários e de integração) e banco de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Tenho conhecimentos em Programação Orientada à Objetos, React, Gestão de Projetos e Produtos, entre outras stacks que estão no meu ToDoList de estudos 😅 
 
-Meu objetivo é sempre me envolver em projetos que não apenas extraiam o melhor das pessoas e produtos, mas também permitam-me aplicar e aprimorar meus conhecimentos, tornando-me uma profissional versátil, capaz de transitar por diversas áreas do mercado, priorizando sempre pela empatia e colaboração.
+Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pessoas, além de me permitir aplicar e aprimorar meus conhecimentos, a fim de ser uma profissional versátil, capaz de transitar por diversas áreas do mercado, sempre priorizando empatia e colaboração.
 
 ##
 
