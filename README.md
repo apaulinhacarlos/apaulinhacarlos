@@ -7,6 +7,18 @@ Tenho experiência com Node.js, Express.js, Docker, APIs RESTful, Sequelize, tes
 
 Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pessoas, além de me permitir aplicar e aprimorar meus conhecimentos, a fim de ser uma profissional versátil, capaz de transitar por diversas áreas do mercado, sempre priorizando empatia e colaboração.
 
+  ##
+  
+ #### Sigam-me os bons!!! De vez enquando tem gatinho por lá 😻 
+ 
+ 
+ <div> 
+  <a href="https://www.linkedin.com/in/apaulinhacarlos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/apaulinhacarlos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="mailto:apaulinhacarlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+
+
 ##
 
 #### Essas são as stacks que eu conheço (por enquanto) 😅
@@ -32,17 +44,8 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
   </a>
 </div>
 
-  ##
-  
- #### Sigam-me os bons!!! De vez enquando tem gatinho por lá 😻 
- 
- 
- <div> 
-  <a href="https://www.linkedin.com/in/apaulinhacarlos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/apaulinhacarlos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:apaulinhacarlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
 
+<!---
   ##
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apaulinhacarlos&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apaulinhacarlos&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apaulinhacarlos&theme=dracula) |
@@ -51,7 +54,9 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apaulinhacarlos&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=apaulinhacarlos&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
   </div>
-   
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apaulinhacarlos/apaulinhacarlos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apaulinhacarlos/apaulinhacarlos/output/github-contribution-grid-snake.svg">
@@ -66,7 +71,7 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
    <img align="center" src="https://profile-counter.glitch.me/apaulinhacarlos/count.svg" />
 </p>
 
-
+-->
 
 <!--- 
 
