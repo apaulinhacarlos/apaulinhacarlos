@@ -7,17 +7,15 @@ Tenho experiência com Node.js, Express.js, Docker, APIs RESTful, Sequelize, tes
 
 Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pessoas, além de me permitir aplicar e aprimorar meus conhecimentos, a fim de ser uma profissional versátil, capaz de transitar por diversas áreas do mercado, sempre priorizando empatia e colaboração.
 
-  ##
+##
   
- #### Sigam-me os bons!!! De vez enquando tem gatinho por lá 😻 
+#### Sigam-me os bons!!! De vez enquando tem gatinho por lá 😻 
  
- 
- <div> 
-  <a href="https://www.linkedin.com/in/apaulinhacarlos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/apaulinhacarlos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:apaulinhacarlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<div> 
+  <a href="https://www.linkedin.com/in/apaulinhacarlos" target="_blank"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/apaulinhacarlos" target="_blank"><img height="40em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="mailto:apaulinhacarlos@gmail.com"><img height="40em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-
 
 ##
 
@@ -37,25 +35,27 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
   <img align="center" alt="paulinha-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">  
 </div>
 
-<div>
-  <br>
+##
+
+<br>
+
+<div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/apaulinhacarlos">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&theme=dracula"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&theme=dracula"/>
   </a>
+
+  <a href="https://github.com/apaulinhacarlos">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos&show_icons=true&theme=dracula&rank_icon=github"/>
+  </a>
+  
 </div>
 
 
 <!---
-  ##
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apaulinhacarlos&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apaulinhacarlos&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apaulinhacarlos&theme=dracula) |
-| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apaulinhacarlos&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=apaulinhacarlos&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-  </div>
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apaulinhacarlos&theme=dracula)
+  
+![Snake animation](https://github.com/apaulinhacarlos/apaulinhacarlos/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apaulinhacarlos/apaulinhacarlos/output/github-contribution-grid-snake-dark.svg">
@@ -65,33 +65,10 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
 <br><br>
  
  ---
-  
+
 <p align="center"> Total de Visitas no Perfil: <img src="https://em-content.zobj.net/thumbs/120/apple/325/detective_1f575-fe0f.png" alt=":detective:" height="24" width="24" /> </p>
 <p align="center"> 
-   <img align="center" src="https://profile-counter.glitch.me/apaulinhacarlos/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/apaulinhacarlos/count.svg" />
 </p>
-
--->
-
-<!--- 
-
-![Snake animation](https://github.com/apaulinhacarlos/apaulinhacarlos/blob/output/github-contribution-grid-snake.svg)
-
-<div>
-GitHub Stats 
-  <a href="https://github.com/apaulinhacarlos">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-
-GitHub Stats
-<div>
-  <a href="https://github.com/apaulinhacarlos">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=apaulinhacarlos&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaulinhacarlos&layout=compact&theme=dracula"/>
-  </a>
-</div>
 
 -->
