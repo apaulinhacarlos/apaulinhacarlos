@@ -24,6 +24,7 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
   <img align="center" alt="paulinha-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img align="center" alt="paulinha-ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
   <img align="center" alt="paulinha-go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go">  
+   <img align="center" alt="paulinha-c#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#">  
   <img align="center" alt="paulinha-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs">
   <img align="center" alt="paulinha-express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJs">
   <img align="center" alt="paulinha-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
