@@ -1,11 +1,37 @@
 ### Oie, tudo bem? 😉
-#### Eu sou a Paulinha Carlos, Instrutora e Desenvolvedora Back-end 👩🏻‍💻 formada em Publicidade 🐓 pós-graduada em Arquitetura de Software 💻 com experiência em Design Gráfico 🎨 paixão por pessoas 🫂 e talento pra Gateira 😻. 
+#### Eu sou a Paulinha Carlos, mãe da Clarinha 💖 Desenvolvedora e Educadora Back-end 👩🏻‍💻 formada em Publicidade 🐓 pós-graduada em Arquitetura de Software 💻 com experiência em Design Gráfico 🎨 paixão por pessoas 🫂 e talento pra Gateira 😻. 
 
-Sou apaixonada por relacionamentos sociais e criatividade, o que me levou a acumular mais de 15 anos de experiência em Comunicação e Marketing. Sempre em busca de novos desafios, migrei para a área de Tecnologia, atuando como desenvolvedora e educadora Back-end, focada em JavaScript e TypeScript. Também apoio times de habilidades comportamentais, metodologias ágeis e geração de conteúdo.
- 
-Tenho experiência com Node.js, Express.js, Docker, APIs RESTful, Sequelize, testes automatizados (unitários e de integração) e bancos de dados relacionais e não-relacionais (MySQL, MongoDB e Firestore). Também tenho conhecimentos em Golang, Python, React, Programação Orientada a Objetos, Arquitetura Limpa, Análise de Dados (ETL), Microserviços, AWS, GCP, Computação em Nuvem, Gestão de Projetos e Produtos, Metodologias Ágeis, entre outras stacks que estão no meu ToDoList de estudos 😅.
+Após mais de 15 anos em Comunicação e Marketing, fiz a transição para a área de Tecnologia, onde atuo no desenvolvimento de soluções back-end, sempre com foco em qualidade de código, automação, escalabilidade e alinhamento ao negócio.
 
-Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pessoas e dos produtos, além de me permitir aplicar e aprimorar meus conhecimentos, a fim de ser uma profissional versátil, capaz de transitar por diversas áreas do mercado, sempre priorizando empatia e colaboração.
+### 💻 O que eu sei fazer
+- Desenvolvimento Back-end com JavaScript, TypeScript e .NET
+- Criação e consumo de APIs REST
+- Integração entre serviços e mensageria (RabbitMQ)
+- Modelagem e uso de bancos de dados relacionais e não relacionais (MongoDB, MySQL, Firebase/Firestore)
+- Aplicação de testes automatizados (unitários e de integração)
+- Versionamento de código com Git e GitHub
+- Noções e vivência com CI/CD
+- Uso de Docker e contato com Kubernetes e Azure
+- Atuação em metodologias ágeis (dailys, plannings, refinamentos e code review)
+
+### 🤝 Como eu trabalho
+- Busco escrever código claro, sustentável e bem estruturado
+- Valorizo boas práticas de engenharia e aprendizado contínuo
+- Tenho facilidade em traduzir necessidades de negócio em soluções técnicas
+- Atuo de forma colaborativa, com comunicação clara entre áreas técnicas e não técnicas
+
+### 🌱 Em constante evolução
+Atualmente, aprofundo conhecimentos em:
+- Arquitetura de Software
+- Escalabilidade e automação de processos
+- Integração entre serviços
+- Qualidade e boas práticas de engenharia
+
+#### Busco ambientes que valorizem aprendizado, diversidade e impacto real, onde eu possa evoluir tecnicamente enquanto contribuo para produtos melhores e times mais humanos.
+
+##
+
+### 🐱 Gateira Oficial | Apaixonada por Pessoas | Curiosa por Natureza
 
 ##
   
@@ -20,6 +46,10 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
 ##
 
 #### Essas são as stacks que eu conheço (por enquanto) 😅
+<!---
+https://github.com/devicons/devicon
+--->
+
 <div style="display: inline_block">
   <img align="center" alt="paulinha-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img align="center" alt="paulinha-ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
@@ -36,7 +66,11 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
   <img align="center" alt="paulinha-redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux">
   <img align="center" alt="paulinha-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
   <img align="center" alt="paulinha-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">  
+    <img align="center" alt="paulinha-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title="CSS">  
 </div>
+
+
+<!---
 
 ##
 
@@ -54,7 +88,6 @@ Meu objetivo é me envolver em projetos que inspirem e extraiam o melhor das pes
 </div>
 
 
-<!---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apaulinhacarlos&theme=dracula)
   
