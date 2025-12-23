@@ -1,30 +1,29 @@
 ### Oie, tudo bem? 😉
 #### Eu sou a Paulinha Carlos, mãe da Clarinha 💖 Desenvolvedora e Educadora Back-end 👩🏻‍💻 formada em Publicidade 🐓 pós-graduada em Arquitetura de Software 💻 com experiência em Design Gráfico 🎨 paixão por pessoas 🫂 e talento pra Gateira 😻. 
 
-Após mais de 15 anos em Comunicação e Marketing, fiz a transição para a área de Tecnologia, onde atuo no desenvolvimento de soluções back-end, sempre com foco em qualidade de código, automação, escalabilidade e alinhamento ao negócio.
+Após mais de 15 anos em Comunicação e Marketing, fiz a transição para a área de Tecnologia, onde atuo principalmente no desenvolvimento de soluções back-end, sempre com foco em qualidade de código, automação, escalabilidade e alinhamento ao negócio.
 
-### 💻 O que eu sei fazer
-- Desenvolvimento Back-end com JavaScript, TypeScript e .NET
-- Criação e consumo de APIs REST
-- Integração entre serviços e mensageria (RabbitMQ)
-- Modelagem e uso de bancos de dados relacionais e não relacionais (MongoDB, MySQL, Firebase/Firestore)
-- Aplicação de testes automatizados (unitários e de integração)
-- Versionamento de código com Git e GitHub
-- Noções e vivência com CI/CD
-- Uso de Docker e contato com Kubernetes e Azure
-- Atuação em metodologias ágeis (dailys, plannings, refinamentos e code review)
+### 💻 Tecnologias & Conhecimentos
+- Back-end: JavaScript, TypeScript, .NET, Node.js
+- APIs: REST, integração entre serviços
+- Mensageria: RabbitMQ
+- Modelagem e bancos de dados: MongoDB, MySQL, Firebase / Firestore
+- Qualidade: Testes unitários e de integração
+- DevOps: Git, GitHub, CI/CD
+- Infra: Docker, contato com Kubernetes, Azure, GCP e AWS
+- Agilidade: Scrum, Kanban, code review, colaboração em squads
 
 ### 🤝 Como eu trabalho
-- Busco escrever código claro, sustentável e bem estruturado
-- Valorizo boas práticas de engenharia e aprendizado contínuo
-- Tenho facilidade em traduzir necessidades de negócio em soluções técnicas
-- Atuo de forma colaborativa, com comunicação clara entre áreas técnicas e não técnicas
+- Código claro, sustentável e bem estruturado
+- Atenção a arquitetura, escalabilidade e automação
+- Facilidade em traduzir problemas de negócio em soluções técnicas
+- Comunicação objetiva e colaboração entre áreas técnicas e não técnicas
 
 ### 🌱 Em constante evolução
 Atualmente, aprofundo conhecimentos em:
 - Arquitetura de Software
-- Escalabilidade e automação de processos
-- Integração entre serviços
+- Integração e escalabilidade de sistemas
+- Automação de processos
 - Qualidade e boas práticas de engenharia
 
 #### Busco ambientes que valorizem aprendizado, diversidade e impacto real, onde eu possa evoluir tecnicamente enquanto contribuo para produtos melhores e times mais humanos.
